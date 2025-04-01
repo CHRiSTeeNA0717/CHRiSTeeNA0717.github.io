@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Nice to Meet You!"
+title: "Hello World!"
 date: 2025-04-01
+tags: "initial post"
 ---
 
 Hi everyone on the internet!
