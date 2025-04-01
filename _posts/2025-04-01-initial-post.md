@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World!"
 date: 2025-04-01
-tags: "initial post"
+tags: "initial_post"
 ---
 
 Hi everyone on the internet!
