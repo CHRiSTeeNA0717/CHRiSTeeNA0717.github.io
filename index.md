@@ -14,10 +14,11 @@ That's why I created this github pages.<br>
 I hope that I can add more fun stuffs hear as I work along!
 
 # Posts
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
+{% assign posts_by_month = site.posts | group_by_exp:"post","post.date | date: '%B %Y'" %}
+{% for month in posts_by_month %}
+  <h3>{{ month.name }}</h3>
   <ul>
-    {% for post in tag[1] %}
+    {% for post in month.items %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
