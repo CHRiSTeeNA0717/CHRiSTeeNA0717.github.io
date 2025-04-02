@@ -3,6 +3,7 @@ layout: post
 title: "Build a DIY NAS using old PC"
 date: 2025-04-01
 tags: "NAS"
+author: ChRiSTeeNA
 ---
 
 ## How it started
