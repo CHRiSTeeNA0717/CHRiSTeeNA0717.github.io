@@ -3,7 +3,8 @@ layout: post
 title: "Hello World!"
 date: 2025-04-01
 tags: "initial_post"
-author: ChRiSTeeNA
+author: CHRiSTeeNA
+categories: blog
 ---
 
 Hi everyone on the internet!
