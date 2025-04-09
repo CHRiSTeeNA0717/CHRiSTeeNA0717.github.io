@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Install Immich for media backup as Google Photo alternative"
-date: 2025-04-02
+date: 2025-04-09
 author: CHRiSTeeNA
 tags: ["NAS", "Docker", "Immich"]
 categories: blog
