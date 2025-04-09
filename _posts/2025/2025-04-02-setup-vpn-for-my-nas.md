@@ -63,6 +63,7 @@ I am using Windows PC to connect to my NAS, so I just open the GUI of WireGuard,
 [Interface]
 Address = 10.0.0.2/24
 PrivateKey = <CLIENT_PRIVATE_KEY>  # Generate a new key pair for the client
+DNS Server = 8.8.8.8 # Google's DNS server
 
 [Peer]
 PublicKey = <SERVER_PUBLIC_KEY>  # Use the public key from your NAS
