@@ -1,4 +1,4 @@
-# Nice to Meet You!
+# Welcome to CHRiSTeeNA's blog
 This is a page about the fun things I do in my free time!
 Mainly related to PCs and applications/softwares because I love them!
 
